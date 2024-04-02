@@ -1263,10 +1263,6 @@ DOMAIN-SUFFIX,dipity.com
 DOMAIN-SUFFIX,directcreative.com
 DOMAIN-SUFFIX,discoins.com
 DOMAIN-SUFFIX,disconnect.me
-DOMAIN-SUFFIX,discord.com
-DOMAIN-SUFFIX,discord.gg
-DOMAIN-SUFFIX,discordapp.com
-DOMAIN-SUFFIX,discordapp.net
 DOMAIN-SUFFIX,discuss.com.hk
 DOMAIN-SUFFIX,discuss4u.com
 DOMAIN-SUFFIX,dish.com
@@ -6048,14 +6044,6 @@ DOMAIN-SUFFIX,sourcegraph.com
 DOMAIN-SUFFIX,spring.io
 DOMAIN-SUFFIX,spring.net
 DOMAIN-SUFFIX,stackoverflow.com
-
-# Discord
-DOMAIN-SUFFIX,discord.co
-DOMAIN-SUFFIX,discord.com
-DOMAIN-SUFFIX,discord.gg
-DOMAIN-SUFFIX,discord.media
-DOMAIN-SUFFIX,discordapp.com
-DOMAIN-SUFFIX,discordapp.net
 
 # Facebook
 DOMAIN-SUFFIX,facebook.com
